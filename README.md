@@ -1,3 +1,3 @@
 lab12
 =====
-Yadaci sa vježbi
+Zadaci sa vježbi
